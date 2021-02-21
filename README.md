@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **New Technologies**
 
-- 📄 Working Experiences [6 Years](6 Years)
+- 📄 Working Experiences (6 Years)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
