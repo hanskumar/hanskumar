@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hans kumar</h1>
-<h3 align="center">PHP Backend Developer | Node.js Developer</h3>
+<h3 align="center">Backend Developer | Agentic AI Developer</h3>
 
 - 🌱 I’m currently learning **New Technologies**
 
